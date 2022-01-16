@@ -40,8 +40,8 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
-    Description: rohpal2001
+    Default: rohpal2001
+    Description: sudkul
     MinLength: 3
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub username or organization
